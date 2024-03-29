@@ -28,7 +28,7 @@ h2{
   font-size: 3rem;
 }
 .gradient-text{ 
-  background: -webkit-linear-gradient(#36D1DC, #c51da6);
+  background: -webkit-linear-gradient(#691084, #13a679);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -46,7 +46,7 @@ a{
   /* background: -webkit-linear-gradient(#36D1DC, #c51da6); */
   color: white;
   border-radius: 4px;
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background: linear-gradient(-45deg,#ee7752, #691084, #23a6d5, #13a679);
     background-size: 400% 400%;
     animation: gradient 5s ease infinite;
 }
@@ -210,7 +210,7 @@ a{
     justify-content: center;
     align-items: center;
     gap: 0.5rem;
-  background: -webkit-linear-gradient(#36D1DC, #c51da6);
+  background: -webkit-linear-gradient(#691084, #13a679);
   padding: 1.5rem 1.5rem;
   color: white;
 }
@@ -302,7 +302,7 @@ a{
     max-width: 700px;
 }
 .privacy-section-text span{
-    background: -webkit-linear-gradient(#36D1DC, #c51da6);
+    background: -webkit-linear-gradient(#691084, #13a679);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -504,7 +504,7 @@ a{
     text-align: center;
 }
 .footer-bottom a{
-    background: -webkit-linear-gradient(#36D1DC, #c51da6);
+    background: -webkit-linear-gradient(#691084, #13a679);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: bolder;
@@ -533,7 +533,7 @@ a{
     transition: 0.4s;
 }
 .navbar-items a:hover{
-    background: -webkit-linear-gradient(#36D1DC, #c51da6);
+    background: -webkit-linear-gradient(#691084, #13a679);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
