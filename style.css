@@ -37,7 +37,7 @@ a{
 }
 .btn-a{
   text-decoration: none;
-  color: black;
+  color: rgb(0, 0, 0);
   padding: 0.7rem 1.2rem;
   /* border-radius: 4px; */
   background-color: white;
@@ -83,7 +83,7 @@ a{
     transform: translateX(-38px) rotate(30deg);
 }
 .landing-section-left p{
-    margin-bottom: 3rem;
+    margin-bottom:3rem;
     max-width: 600px;
 }
 .language-known{
@@ -96,7 +96,7 @@ a{
     width: 30px;
 }
 .landing-section-right img{
-    width: 360px;
+    width: 600px;
     
 }
 .our-features{
@@ -114,7 +114,7 @@ a{
 .bullets{
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    row-gap: 1rem;
+    row-gap:1rem;
     margin-bottom: 1rem;
 }
 .particle-section {
